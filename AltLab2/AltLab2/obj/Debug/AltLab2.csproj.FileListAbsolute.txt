@@ -1,0 +1,8 @@
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\AltLab2\AltLab2\bin\Debug\AltLab2.exe.config
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\AltLab2\AltLab2\bin\Debug\Database1.mdf
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\AltLab2\AltLab2\bin\Debug\Database1_log.ldf
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\AltLab2\AltLab2\bin\Debug\AltLab2.exe
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\AltLab2\AltLab2\bin\Debug\AltLab2.pdb
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\AltLab2\AltLab2\obj\Debug\AltLab2.exe
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\AltLab2\AltLab2\obj\Debug\AltLab2.pdb
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\AltLab2\AltLab2\obj\Debug\AltLab2.csprojResolveAssemblyReference.cache
